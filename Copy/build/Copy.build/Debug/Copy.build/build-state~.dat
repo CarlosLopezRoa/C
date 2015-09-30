@@ -1,0 +1,56 @@
+TCopy
+v7
+r0
+t334677165.091335
+cCheck dependencies
+cCompileC build/Copy.build/Debug/Copy.build/Objects-normal/x86_64/main.o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Copy.build/Debug/Copy.build/Objects-normal/x86_64/Copy.LinkFileList
+c000000004E428D2D000000000000006B
+t1312984365
+s107
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Copy.build/Debug/Copy.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Debug/Copy
+t2
+s0
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/main.c
+c000000004E428D2D0000000000000064
+t1312984365
+s100
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies334677165#334677165#0(0"0(0#1#0"4523562304#0"0#
+
+CCompileC build/Copy.build/Debug/Copy.build/Objects-normal/x86_64/main.o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s334677165.088096
+e334677165.091267
+r0
+xCompileC
+xbuild/Copy.build/Debug/Copy.build/Objects-normal/x86_64/main.o
+x/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/main.c334677165#334677165#0(725"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/main.c:3: warning: return type defaults to 'int'/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/main.c: In function 'main':/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/main.c:5: error: nested functions are disabled, use -fnested-functions to re-enable/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/main.c:5: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'c'/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/main.c:5: error: 'c' undeclared (first use in this function)/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/main.c:5: error: (Each undeclared identifier is reported only once/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/main.c:5: error: for each function it appears in.)4(22@29"Return type defaults to 'int'334677165#0#93#0(6@50"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/main.c334677165#3#0#3#0#0"0(4@66"Nested functions are disabled, use -fnested-functions to re-enable334677165#165#128#0(6@50"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/main.c334677165#5#0#5#0#66"nested functions are disabled, use -fnested-functions to re-enable0(4@59"Expected '=', ',', ';', 'asm' or '__attribute__' before 'c'334677165#293#121#0(6@50"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/main.c334677165#5#0#5#0#19"expected * before *0(4@43"'c' undeclared (first use in this function)334677165#414#105#0(6@50"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/main.c334677165#5#0#5#0#43"'*' undeclared (first use in this function)0(0#0#50"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/main.c4523560592#1271"    cd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Copy.build/Debug/Copy.build/Copy-generated-files.hmap -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Copy.build/Debug/Copy.build/Copy-own-target-headers.hmap -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Copy.build/Debug/Copy.build/Copy-all-target-headers.hmap -iquote /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Copy.build/Debug/Copy.build/Copy-project-headers.hmap -F/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Debug -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Debug/include -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Copy.build/Debug/Copy.build/DerivedSources/x86_64 -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Copy.build/Debug/Copy.build/DerivedSources -c /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/main.c -o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Copy.build/Debug/Copy.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Debug/Copy normal x86_64
+r0
+

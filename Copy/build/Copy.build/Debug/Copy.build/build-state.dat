@@ -1,0 +1,64 @@
+TCopy
+v7
+r0
+t334678018.255788
+cCheck dependencies
+cCompileC build/Copy.build/Debug/Copy.build/Objects-normal/x86_64/main.o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Debug/Copy normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Copy.build/Debug/Copy.build/Objects-normal/x86_64/Copy.LinkFileList
+c000000004E428D2D000000000000006B
+t1312984365
+s107
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Copy.build/Debug/Copy.build/Objects-normal/x86_64/main.o
+t1312984635
+s2564
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Debug/Copy
+t1312985217
+s9032
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/main.c
+c000000004E4290810000000000000067
+t1312985217
+s103
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies334678017#334678017#0(0"0(0#1#0"4522296640#0"0#
+
+CCompileC build/Copy.build/Debug/Copy.build/Objects-normal/x86_64/main.o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s334678017.858282
+e334678017.874780
+r1
+xCompileC
+xbuild/Copy.build/Debug/Copy.build/Objects-normal/x86_64/main.o
+x/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/main.c334678017#334678017#0(93"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/main.c:3: warning: return type defaults to 'int'1(22@29"Return type defaults to 'int'334678017#0#93#0(6@50"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/main.c334678017#3#0#3#0#0"0(0#0#50"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/main.c4522294928#1271"    cd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Copy.build/Debug/Copy.build/Copy-generated-files.hmap -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Copy.build/Debug/Copy.build/Copy-own-target-headers.hmap -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Copy.build/Debug/Copy.build/Copy-all-target-headers.hmap -iquote /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Copy.build/Debug/Copy.build/Copy-project-headers.hmap -F/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Debug -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Debug/include -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Copy.build/Debug/Copy.build/DerivedSources/x86_64 -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Copy.build/Debug/Copy.build/DerivedSources -c /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/main.c -o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Copy.build/Debug/Copy.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Debug/Copy normal x86_64
+s334678017.874870
+e334678018.255732
+r1
+xLd
+x/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Debug/Copy
+xnormal
+xx86_64
+lSLF07#2@65"Link /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Debug/Copy334678017#334678018#0(0"0(0#0#0"4522294928#511"    cd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Debug -F/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Debug -filelist /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Copy.build/Debug/Copy.build/Objects-normal/x86_64/Copy.LinkFileList -mmacosx-version-min=10.6 -o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Copy/build/Debug/Copy0#
+

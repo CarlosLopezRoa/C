@@ -1,0 +1,58 @@
+Te1-7_CLR
+v7
+r2
+t335491647.784956
+cCheck dependencies
+cCompileC build/e1-7_CLR.build/Debug/e1-7_CLR.build/Objects-normal/x86_64/main.o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-7_CLR/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer-3.2.6/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer-3.2.6/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-7_CLR/build/Debug/e1-7_CLR
+t2
+s0
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-7_CLR/build/e1-7_CLR.build/Debug/e1-7_CLR.build/Objects-normal/x86_64/e1-7_CLR.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-7_CLR/build/e1-7_CLR.build/Debug/e1-7_CLR.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-7_CLR/main.c
+c000000004E4EFABF0000000000000101
+t1313798847
+s257
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies335491647#335491647#0(0"0(0#1#0"4495471936#0"0#
+
+CCompileC build/e1-7_CLR.build/Debug/e1-7_CLR.build/Objects-normal/x86_64/main.o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-7_CLR/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s335491647.753632
+e335491647.784889
+r0
+xCompileC
+xbuild/e1-7_CLR.build/Debug/e1-7_CLR.build/Objects-normal/x86_64/main.o
+x/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-7_CLR/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-7_CLR/main.c: In function 'main':
+o/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-7_CLR/main.c:10: error: expected ';' before 'putchar'
+lSLF07#2@62"Compile /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-7_CLR/main.c335491647#335491647#0(172"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-7_CLR/main.c: In function 'main':/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-7_CLR/main.c:10: error: expected ';' before 'putchar'1(4@29"Expected ';' before 'putchar'335491647#76#96#0(6@54"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-7_CLR/main.c335491647#10#0#10#0#19"expected * before *0(0#0#54"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-7_CLR/main.c4495470224#1399"    cd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-7_CLR    setenv LANG en_US.US-ASCII    /Developer-3.2.6/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3.2.6/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-7_CLR/build/e1-7_CLR.build/Debug/e1-7_CLR.build/e1-7_CLR-generated-files.hmap -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-7_CLR/build/e1-7_CLR.build/Debug/e1-7_CLR.build/e1-7_CLR-own-target-headers.hmap -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-7_CLR/build/e1-7_CLR.build/Debug/e1-7_CLR.build/e1-7_CLR-all-target-headers.hmap -iquote /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-7_CLR/build/e1-7_CLR.build/Debug/e1-7_CLR.build/e1-7_CLR-project-headers.hmap -F/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-7_CLR/build/Debug -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-7_CLR/build/Debug/include -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-7_CLR/build/e1-7_CLR.build/Debug/e1-7_CLR.build/DerivedSources/x86_64 -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-7_CLR/build/e1-7_CLR.build/Debug/e1-7_CLR.build/DerivedSources -c /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-7_CLR/main.c -o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-7_CLR/build/e1-7_CLR.build/Debug/e1-7_CLR.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-7_CLR/build/Debug/e1-7_CLR normal x86_64
+r0
+

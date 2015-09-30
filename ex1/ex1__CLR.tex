@@ -1,0 +1,171 @@
+\documentclass[a4paper,10pt]{article}
+%\documentclass[a4paper,10pt]{scrartcl}
+\usepackage{cite}
+
+\usepackage[spanish]{babel}
+\decimalpoint 
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx}
+%\usepackage{/home/vargas/styles/mathshorthand}
+
+%\pagestyle{empty}
+%\setlength{\parindent}{0in}
+%\setlength{\parskip}{0.1in}
+%\setlength{\unitlength}{0.1cm}
+\setlength{\oddsidemargin}{0in}
+
+%\setlength{\evensidemargin}{0.5in}
+\setlength{\topmargin}{-.8in}
+%\setlength{\headsep}{0.1in}}}
+%\setlength{\headheight}{0in}
+%\setlength{\footskip}{0.5in}
+\setlength{\textheight}{10in} \setlength{\textwidth}{6.5in}
+%\setlength{\columnsep}{0.2in}
+\usepackage{color,hyperref}
+\definecolor{darkblue}{rgb}{0.0,0.0,0.3}
+\hypersetup{colorlinks,breaklinks,
+            linkcolor=darkblue,urlcolor=darkblue,
+            anchorcolor=darkblue,citecolor=darkblue}
+% For \url{SOME_URL}, links SOME_URL to the url SOME_URL
+\providecommand*\url[1]{\href{#1}{#1}}
+% Same as above, but pretty-prints SOME_URL in teletype fixed-width font
+\renewcommand*\url[1]{\href{#1}{\texttt{#1}}}
+
+
+\newcommand{\bm}[1]{\boldsymbol{#1}}
+\newcommand{\bh}[1]{\boldsymbol{\hat{#1}}}
+\newcommand{\bt}[1]{\boldsymbol{\tilde{#1}}}
+\newcommand{\bbar}[1]{\boldsymbol{\bar{#1}}}
+\newcommand{\mbf}[1]{\ensuremath{\mathbf{#1}}}
+\newcommand{\ode}[2]{\ensuremath{\frac{\mathrm{d} #1}{\mathrm{d} #2}}}
+\newcommand{\odet}[2]{\ensuremath{\tfrac{\mathrm{d} #1}{\mathrm{d} #2}}}
+\newcommand{\oden}[3]{\ensuremath{\frac{\mathrm{d}^#3 #1}{\mathrm{d} #2^#3}}}
+\newcommand{\pde}[2]{\ensuremath{\frac{\partial #1}{\partial #2}}}
+\newcommand{\pdet}[2]{\ensuremath{\tfrac{\partial #1}{\partial #2}}}
+\newcommand{\pden}[3]{\ensuremath{\frac{\partial^{#3} #1}{\partial
+      #2^{#3}}}}
+\newcommand{\sub}[1]{\ensuremath{_{\rm{#1}}}}
+\newcommand{\arriba}[1]{\ensuremath{^{\rm{#1}}}}
+%
+\newcommand{\N}{\ensuremath{\mathbb{N}}}
+\newcommand{\R}{\ensuremath{\mathbb{R}}}
+\newcommand{\C}{\ensuremath{\mathbb{C}}}
+\newcommand{\ee}[1]{\ensuremath{\mathrm{e}^{#1}}}
+\newcommand{\hdos}{\ensuremath{\mathrm{H}_2}}
+\newcommand{\COdos}{\ensuremath{\mathrm{CO}_2}}
+\newcommand{\ATP}{\ensuremath{\mathrm{ATP}}}
+
+\newcommand{\dt}{\ensuremath{\mathrm{d}t}}
+\newcommand{\dtau}{\ensuremath{\mathrm{d}\tau}}
+\newcommand{\DV}{\ensuremath{\Delta V}}
+\newcommand{\Li}{\mathcal {L}^{-1}}
+\newcommand{\Lin}[1]{\mathcal {L}^{-1}\left[{#1}\right]}
+
+\DeclareMathOperator{\sign}{\mathrm{sign}}
+
+\newtheorem{remark}{Remark}
+\usepackage[utf8x]{inputenc}
+%%
+
+\title{Examen 1\\ Computación 3}
+\author{Carlos López Roa}
+\date{\today}
+\pdfinfo{%
+  /Title    ()
+  /Author   (CLR)
+  /Creator  ()
+  /Producer ()
+  /Subject  ()
+  /Keywords ()
+}
+\begin{document}
+\maketitle
+%%% Content
+\begin{enumerate}
+\item \begin{itemize}
+\item ++n;
+\item n++;
+\item n+=1;
+\item n=n+1;
+\end{itemize}
+\item
+ \begin{itemize}
+\item long int a=7865;
+\item long a=7865;
+\end{itemize}
+\item \begin{itemize}
+\item F
+\item V
+\item V
+\end{itemize}
+\item 
+\begin{itemize}
+\item Asumiendo $\backslash \&$ como $\&$\\
+00000001\\
+(1)
+\item 01110111\\
+(119)
+\item 01110110\\
+(118)
+\item 10101000\\
+(168)
+\end{itemize}
+\item else no lleva ;
+\item \begin{verbatim}
+#include <stdio.h>\\
+#include <math.h>
+#define max 126
+main(){
+    int i;
+    for (i=32; i<max; ++i) {
+        if ((i%16)==0) {
+            putchar(i); 
+            printf("\n");}
+        else 
+            putchar(i);
+    }
+    printf("\n");
+}
+ \end{verbatim}
+\item 
+Este programa ingresa un \emph{unsigned integer}, a  dicho integer se le aplica la máscara $1<<15$ que es 1000000000000000 de forma iterativa, en cada iteración al integer se le aplica $integer<<=1$ que es $integer = integer << 1$ o mejor dicho se recorre a la izquierda en una posición. Se realizan 16 iteraciones. Si sucede que al aplicar la máscara $1<<15 $ el resultado es cero entonces se le suma uno a una variable llamada total. Al final la función regresa 1 si el total es divisible entero entre 2 y 0 en otra circunstancia. \\
+En resumen la función aplica una máscara 16 veces, en cada ocasión recorre la entrada a la izquierda en una posición. Si el resultado de la máscara es igual a cero, incrementa en uno una variable. Si esa variable es divisible entre 2 regresa 1,  regresa 0 \emph{else}. 
+\item \begin{itemize}
+\item Como el argumento de putchar es $'1'$ y $'0'$ la salida es $1$ y $0$. El uso de putchar es análogo al de printf, sólo sirve para imprimir los valores que se piden. 
+\item \begin{verbatim}
+/* Printing an unsigned integer in bits */#include <stdio.h>
+#include <math.h>
+main() {
+    unsigned x;    void displayBits(unsigned);    printf("Enter an unsigned integer\n");    scanf("%u",&x);    displayBits(x);    return 0;}void displayBits(unsigned value){    unsigned c, displayMask = 1 << 31;    printf("%10u = ",value);    for(c=1; c <= 32; c++)    {        putchar(value & displayMask ? '1' : '0');        value <<=1;        if(c%16 == 0)            putchar(' ');
+}        putchar('\n');    }
+
+\end{verbatim}
+\end{itemize}
+\item \begin{verbatim}
+#include <stdio.h>
+#include <math.h>
+int power2a(int,int);
+void displayBits(unsigned);main() {
+    unsigned x,b;
+    printf("Enter an unsigned integer\n");    scanf("%u",&x);
+    printf("Enter a integer power to raise \n");
+    scanf("%u",&b);    printf("Resultado %d\n", power2a(x,b));
+    printf("En binario \n");
+    displayBits(power2a(x,b));    return 0;
+}
+int power2a(int number,int pow){
+    int r;
+    r=number<<(pow-1);
+    return r;
+}
+void displayBits(unsigned value){    unsigned c, displayMask = 1 << 15;    printf("%10u = ",value);    for (c=1; c <= 16; c++)    {        putchar(value & displayMask ? '1' : '0');        value <<=1;        if (c%8 == 0)            putchar(' ');
+    }    putchar('\n');}
+\end{verbatim}
+Este programa usa $(pow-1)$ y no $pow$ para que $n^1=n$ y no a $2n$
+\end{enumerate}
+
+
+
+
+\end{document}

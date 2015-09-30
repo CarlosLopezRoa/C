@@ -1,0 +1,4 @@
+/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/main.c:3: warning: return type defaults to 'int'
+/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/main.c: In function 'main':
+/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/main.c:12: error: expected ';' before 'printf'
+/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/main.c:14: error: called object '1.8000000000000000444089209850062616169452667236328125e+0' is not a function

@@ -1,0 +1,69 @@
+Te1-4_CLR
+v7
+r0
+t334540251.247360
+cCheck dependencies
+cCompileC build/e1-4_CLR.build/Debug/e1-4_CLR.build/Objects-normal/x86_64/e1-4_CLR.o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/e1-4_CLR.c normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/build/Debug/e1-4_CLR
+t2
+s0
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/build/e1-4_CLR.build/Debug/e1-4_CLR.build/Objects-normal/x86_64/e1-4_CLR.LinkFileList
+c000000004E40765B000000000000007B
+t1312847451
+s123
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/build/e1-4_CLR.build/Debug/e1-4_CLR.build/Objects-normal/x86_64/e1-4_CLR.o
+t2
+s0
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/build/e1-4_CLR.build/Debug/e1-4_CLR.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/e1-4_CLR.c
+c000000004E40765B0000000000000298
+t1312847451
+s664
+i<stdio.h>
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/main.c
+c000000004E4075F00000000000000089
+t1312847344
+s137
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies334540251#334540251#0(0"0(0#1#0"17220898560#0"0#
+
+CCompileC build/e1-4_CLR.build/Debug/e1-4_CLR.build/Objects-normal/x86_64/e1-4_CLR.o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/e1-4_CLR.c normal x86_64 c com.apple.compilers.gcc.4_2
+s334540251.209751
+e334540251.247295
+r0
+xCompileC
+xbuild/e1-4_CLR.build/Debug/e1-4_CLR.build/Objects-normal/x86_64/e1-4_CLR.o
+x/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/e1-4_CLR.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/e1-4_CLR.c334540251#334540251#0(442"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/e1-4_CLR.c:7: warning: return type defaults to 'int'/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/e1-4_CLR.c: In function 'main':/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/e1-4_CLR.c:16: error: expected ';' before 'printf'/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/e1-4_CLR.c:18: error: called object '1.8000000000000000444089209850062616169452667236328125e+0' is not a function3(22@29"Return type defaults to 'int'334540251#0#101#0(6@58"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/e1-4_CLR.c334540251#7#0#7#0#0"0(4@28"Expected ';' before 'printf'334540251#181#99#0(6@58"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/e1-4_CLR.c334540251#16#0#16#0#19"expected * before *0(4@91"Called object '1.8000000000000000444089209850062616169452667236328125e+0' is not a function334540251#280#162#0(6@58"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/e1-4_CLR.c334540251#18#0#18#0#35"called object '*' is not a function0(0#0#58"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/e1-4_CLR.c17221711872#1395"    cd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/build/e1-4_CLR.build/Debug/e1-4_CLR.build/e1-4_CLR-generated-files.hmap -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/build/e1-4_CLR.build/Debug/e1-4_CLR.build/e1-4_CLR-own-target-headers.hmap -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/build/e1-4_CLR.build/Debug/e1-4_CLR.build/e1-4_CLR-all-target-headers.hmap -iquote /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/build/e1-4_CLR.build/Debug/e1-4_CLR.build/e1-4_CLR-project-headers.hmap -F/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/build/Debug -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/build/Debug/include -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/build/e1-4_CLR.build/Debug/e1-4_CLR.build/DerivedSources/x86_64 -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/build/e1-4_CLR.build/Debug/e1-4_CLR.build/DerivedSources -c /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/e1-4_CLR.c -o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/build/e1-4_CLR.build/Debug/e1-4_CLR.build/Objects-normal/x86_64/e1-4_CLR.o1#
+
+CCompileC build/e1-4_CLR.build/Debug/e1-4_CLR.build/Objects-normal/x86_64/main.o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-4_CLR/build/Debug/e1-4_CLR normal x86_64
+r0
+

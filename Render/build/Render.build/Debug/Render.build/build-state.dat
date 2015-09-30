@@ -1,0 +1,63 @@
+TRender
+v7
+r0
+t335493215.949625
+cCheck dependencies
+cCompileC build/Render.build/Debug/Render.build/Objects-normal/x86_64/main.o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer-3.2.6/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer-3.2.6/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Debug/Render
+t1313799385
+s9040
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Render.build/Debug/Render.build/Objects-normal/x86_64/Render.LinkFileList
+c000000004E4EFCD00000000000000071
+t1313799376
+s113
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Render.build/Debug/Render.build/Objects-normal/x86_64/main.o
+t1313800415
+s2816
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/main.c
+c000000004E4F00A4000000000000006C
+t1313800356
+s108
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies335493215#335493215#0(0"0(0#1#0"4444448064#0"0#
+
+CCompileC build/Render.build/Debug/Render.build/Objects-normal/x86_64/main.o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s335493215.917442
+e335493215.949400
+r1
+xCompileC
+xbuild/Render.build/Debug/Render.build/Objects-normal/x86_64/main.o
+x/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/main.c335493215#335493215#0(0"0(0#0#52"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/main.c4444446352#1341"    cd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render    setenv LANG en_US.US-ASCII    /Developer-3.2.6/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3.2.6/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Render.build/Debug/Render.build/Render-generated-files.hmap -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Render.build/Debug/Render.build/Render-own-target-headers.hmap -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Render.build/Debug/Render.build/Render-all-target-headers.hmap -iquote /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Render.build/Debug/Render.build/Render-project-headers.hmap -F/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Debug -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Debug/include -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Render.build/Debug/Render.build/DerivedSources/x86_64 -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Render.build/Debug/Render.build/DerivedSources -c /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/main.c -o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Render.build/Debug/Render.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Debug/Render normal x86_64
+s335492185.156361
+e335492185.193874
+r1
+xLd
+x/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Debug/Render
+xnormal
+xx86_64
+lSLF07#2@69"Link /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Debug/Render335492185#335492185#0(0"0(0#0#0"4563205776#541"    cd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer-3.2.6/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer-3.2.6/SDKs/MacOSX10.6.sdk -L/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Debug -F/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Debug -filelist /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Render.build/Debug/Render.build/Objects-normal/x86_64/Render.LinkFileList -mmacosx-version-min=10.6 -o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Debug/Render0#
+

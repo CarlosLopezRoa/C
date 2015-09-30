@@ -1,0 +1,46 @@
+Te1-2_CLR
+v7
+r0
+t334537177.409602
+cCheck dependencies
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-2_CLR/build/Debug/e1-2_CLR
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-2_CLR/build/e1-2_CLR.build/Debug/e1-2_CLR.build/Objects-normal/x86_64/e1-2_CLR.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-2_CLR/build/e1-2_CLR.build/Debug/e1-2_CLR.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-2_CLR/main.c
+c000000004E4069FD0000000000000089
+t1312844285
+s137
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies334537177#334537177#0(102"[WARN]warning: no rule to process file '$(PROJECT_DIR)/e1-2_CLR' of type text for architecture x86_641(22@95"warning: no rule to process file '$(PROJECT_DIR)/e1-2_CLR' of type text for architecture x86_64334537177#18446744073709551615#0#0(1@0"0(0#1#0"17202978560#0"0#
+
+CCompileC build/e1-2_CLR.build/Debug/e1-2_CLR.build/Objects-normal/x86_64/main.o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-2_CLR/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-2_CLR/build/Debug/e1-2_CLR normal x86_64
+r0
+

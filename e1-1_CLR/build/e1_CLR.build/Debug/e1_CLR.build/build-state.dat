@@ -1,0 +1,142 @@
+Te1_CLR
+v7
+r0
+t334539199.708869
+cCheck dependencies
+cCompileC build/e1_CLR.build/Debug/e1_CLR.build/Objects-normal/x86_64/e1-1,1-2_CLR.o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/e1-1,1-2_CLR.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/Debug/e1_CLR normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/Debug/e1_CLR
+t1312846399
+s9048
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/Objects-normal/x86_64/e1-1,1-2_CLR.o
+t1312846399
+s2924
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/Objects-normal/x86_64/e1-1_CLR.o
+t1312844251
+s2924
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/Objects-normal/x86_64/e1_CLR.LinkFileList
+c000000004E407076000000000000007B
+t1312845942
+s123
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/Objects-normal/x86_64/main.o
+t1312844054
+s2900
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/e1-1,1-2_CLR.c
+c000000004E40723F000000000000017A
+t1312846399
+s378
+i<stdio.h>
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/e1-1_CLR.c
+c000000004E406EFA0000000000000176
+t1312845562
+s374
+i<stdio.h>
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/main.c
+c000000004E406916000000000000016C
+t1312844054
+s364
+i<stdio.h>
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR/build/Debug/e1_CLR
+t1312844131
+s9024
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/Objects-normal/x86_64/e1_CLR.LinkFileList
+c000000004E40630B0000000000000071
+t1312842507
+s113
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/Objects-normal/x86_64/main.o
+t1312844054
+s2900
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR/main.c
+c000000004E406916000000000000016C
+t1312844054
+s364
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies334539199#334539199#0(0"0(0#1#0"17208909312#0"0#
+
+CCompileC build/e1_CLR.build/Debug/e1_CLR.build/Objects-normal/x86_64/e1-1,1-2_CLR.o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/e1-1,1-2_CLR.c normal x86_64 c com.apple.compilers.gcc.4_2
+s334539199.668116
+e334539199.694931
+r1
+xCompileC
+xbuild/e1_CLR.build/Debug/e1_CLR.build/Objects-normal/x86_64/e1-1,1-2_CLR.o
+x/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/e1-1,1-2_CLR.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/e1-1,1-2_CLR.c334539199#334539199#0(105"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/e1-1,1-2_CLR.c:7: warning: return type defaults to 'int'1(22@29"Return type defaults to 'int'334539199#0#105#0(6@62"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/e1-1,1-2_CLR.c334539199#7#0#7#0#0"0(0#0#62"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/e1-1,1-2_CLR.c4532862608#1367"    cd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/e1_CLR-generated-files.hmap -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/e1_CLR-own-target-headers.hmap -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/e1_CLR-all-target-headers.hmap -iquote /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/e1_CLR-project-headers.hmap -F/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/Debug -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/Debug/include -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/DerivedSources/x86_64 -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/DerivedSources -c /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/e1-1,1-2_CLR.c -o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/Objects-normal/x86_64/e1-1,1-2_CLR.o0#
+
+CCompileC build/e1_CLR.build/Debug/e1_CLR.build/Objects-normal/x86_64/e1-1_CLR.o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/e1-1_CLR.c normal x86_64 c com.apple.compilers.gcc.4_2
+s334537051.126966
+e334537051.213119
+r1
+xCompileC
+xbuild/e1_CLR.build/Debug/e1_CLR.build/Objects-normal/x86_64/e1-1_CLR.o
+x/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/e1-1_CLR.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/e1-1_CLR.c334537051#334537051#0(101"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/e1-1_CLR.c:7: warning: return type defaults to 'int'1(22@29"Return type defaults to 'int'334537051#0#101#0(6@58"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/e1-1_CLR.c334537051#7#0#7#0#0"0(0#0#58"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/e1-1_CLR.c4519571088#1359"    cd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/e1_CLR-generated-files.hmap -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/e1_CLR-own-target-headers.hmap -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/e1_CLR-all-target-headers.hmap -iquote /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/e1_CLR-project-headers.hmap -F/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/Debug -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/Debug/include -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/DerivedSources/x86_64 -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/DerivedSources -c /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/e1-1_CLR.c -o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/Objects-normal/x86_64/e1-1_CLR.o0#
+
+CCompileC build/e1_CLR.build/Debug/e1_CLR.build/Objects-normal/x86_64/main.o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/e1_CLR.build/Debug/e1_CLR.build/Objects-normal/x86_64/main.o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s334536854.426564
+e334536854.473820
+r1
+xCompileC
+xbuild/e1_CLR.build/Debug/e1_CLR.build/Objects-normal/x86_64/main.o
+x/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR/main.c334536854#334536854#0(95"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR/main.c:7: warning: return type defaults to 'int'1(22@29"Return type defaults to 'int'334536854#0#95#0(6@52"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR/main.c334536854#7#0#7#0#0"0(0#0#52"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR/main.c4547612304#1329"    cd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/e1_CLR-generated-files.hmap -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/e1_CLR-own-target-headers.hmap -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/e1_CLR-all-target-headers.hmap -iquote /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/e1_CLR-project-headers.hmap -F/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR/build/Debug -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR/build/Debug/include -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/DerivedSources/x86_64 -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/DerivedSources -c /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR/main.c -o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/Debug/e1_CLR normal x86_64
+s334539199.695011
+e334539199.708815
+r1
+xLd
+x/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/Debug/e1_CLR
+xnormal
+xx86_64
+lSLF07#2@71"Link /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/Debug/e1_CLR334539199#334539199#0(0"0(0#0#0"4532862608#539"    cd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/Debug -F/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/Debug -filelist /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/Objects-normal/x86_64/e1_CLR.LinkFileList -mmacosx-version-min=10.6 -o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1-1_CLR/build/Debug/e1_CLR0#
+
+CLd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR/build/Debug/e1_CLR normal x86_64
+s334536931.171808
+e334536931.185760
+r1
+xLd
+x/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR/build/Debug/e1_CLR
+xnormal
+xx86_64
+lSLF07#2@69"Link /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR/build/Debug/e1_CLR334536931#334536931#0(0"0(0#0#0"4534980240#529"    cd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR/build/Debug -F/Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR/build/Debug -filelist /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR/build/e1_CLR.build/Debug/e1_CLR.build/Objects-normal/x86_64/e1_CLR.LinkFileList -mmacosx-version-min=10.6 -o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/e1_CLR/build/Debug/e1_CLR0#
+

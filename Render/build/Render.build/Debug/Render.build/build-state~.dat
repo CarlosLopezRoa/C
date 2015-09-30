@@ -1,0 +1,59 @@
+TRender
+v7
+r0
+t335492176.353756
+cCheck dependencies
+cCompileC build/Render.build/Debug/Render.build/Objects-normal/x86_64/main.o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer-3.2.6/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer-3.2.6/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Debug/Render
+t2
+s0
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Render.build/Debug/Render.build/Objects-normal/x86_64/Render.LinkFileList
+c000000004E4EFCD00000000000000071
+t1313799376
+s113
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Render.build/Debug/Render.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/main.c
+c000000004E4EFCD0000000000000006E
+t1313799376
+s110
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies335492176#335492176#0(0"0(0#1#0"17196612608#0"0#
+
+CCompileC build/Render.build/Debug/Render.build/Objects-normal/x86_64/main.o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s335492176.320715
+e335492176.353632
+r0
+xCompileC
+xbuild/Render.build/Debug/Render.build/Objects-normal/x86_64/main.o
+x/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/main.c: In function 'main':
+o/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/main.c:8: error: expected ')' before 'm'
+o/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/main.c:8: warning: too few arguments for format
+lSLF07#2@60"Compile /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/main.c335492176#335492176#0(255"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/main.c: In function 'main':/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/main.c:8: error: expected ')' before 'm'/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/main.c:8: warning: too few arguments for format2(4@23"Expected ')' before 'm'335492176#74#87#0(6@52"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/main.c335492176#8#0#8#0#19"expected * before *0(22@28"Too few arguments for format335492176#161#94#0(6@52"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/main.c335492176#8#0#8#0#0"0(0#0#52"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/main.c17195288576#1341"    cd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render    setenv LANG en_US.US-ASCII    /Developer-3.2.6/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3.2.6/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Render.build/Debug/Render.build/Render-generated-files.hmap -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Render.build/Debug/Render.build/Render-own-target-headers.hmap -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Render.build/Debug/Render.build/Render-all-target-headers.hmap -iquote /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Render.build/Debug/Render.build/Render-project-headers.hmap -F/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Debug -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Debug/include -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Render.build/Debug/Render.build/DerivedSources/x86_64 -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Render.build/Debug/Render.build/DerivedSources -c /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/main.c -o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Render.build/Debug/Render.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/Render/build/Debug/Render normal x86_64
+r0
+

@@ -1,0 +1,112 @@
+TCH1
+v7
+r0
+t334677116.931904
+cCheck dependencies
+cCompileC build/CH1.build/Debug/CH1.build/Objects-normal/x86_64/e1.5.o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/e1.5.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/CH1.build/Debug/CH1.build/Objects-normal/x86_64/copy.o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/copy.c normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/CH1.build/Debug/CH1.build/Objects-normal/x86_64/CH1.LinkFileList
+c000000004E428CE700000000000000D0
+t1312984295
+s208
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/CH1.build/Debug/CH1.build/Objects-normal/x86_64/copy.o
+t2
+s0
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/CH1.build/Debug/CH1.build/Objects-normal/x86_64/e1.5.o
+t1312983881
+s2972
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/CH1.build/Debug/CH1.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/Debug/CH1
+t1312983881
+s9016
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/copy.c
+c000000004E428CE700000000000000DC
+t1312984295
+s220
+i<stdio.h>
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/copy.h
+c000000004E428C4F0000000000000078
+t1312984143
+s120
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/e1.5.c
+c000000004E428B49000000000000007A
+t1312983881
+s122
+i<stdio.h>
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/main.c
+c000000004E4289FE0000000000000089
+t1312983550
+s137
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies334677116#334677116#0(0"0(0#1#0"4522296640#0"0#
+
+CCompileC build/CH1.build/Debug/CH1.build/Objects-normal/x86_64/copy.o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/copy.c normal x86_64 c com.apple.compilers.gcc.4_2
+s334677116.845914
+e334677116.931829
+r0
+xCompileC
+xbuild/CH1.build/Debug/CH1.build/Objects-normal/x86_64/copy.o
+x/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/copy.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/copy.c:12: warning: return type defaults to 'int'
+o/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/copy.c: In function 'main':
+o/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/copy.c:14: error: nested functions are disabled, use -fnested-functions to re-enable
+o/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/copy.c:14: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'c'
+o/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/copy.c:14: error: 'c' undeclared (first use in this function)
+o/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/copy.c:14: error: (Each undeclared identifier is reported only once
+o/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/copy.c:14: error: for each function it appears in.)
+lSLF07#2@57"Compile /Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/copy.c334677116#334677116#0(724"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/copy.c:12: warning: return type defaults to 'int'/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/copy.c: In function 'main':/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/copy.c:14: error: nested functions are disabled, use -fnested-functions to re-enable/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/copy.c:14: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'c'/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/copy.c:14: error: 'c' undeclared (first use in this function)/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/copy.c:14: error: (Each undeclared identifier is reported only once/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/copy.c:14: error: for each function it appears in.)4(22@29"Return type defaults to 'int'334677116#0#93#0(6@49"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/copy.c334677095#12#0#12#0#0"0(4@66"Nested functions are disabled, use -fnested-functions to re-enable334677116#164#128#0(6@49"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/copy.c334677095#14#0#14#0#66"nested functions are disabled, use -fnested-functions to re-enable0(4@59"Expected '=', ',', ';', 'asm' or '__attribute__' before 'c'334677116#292#121#0(6@49"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/copy.c334677095#14#0#14#0#19"expected * before *0(4@43"'c' undeclared (first use in this function)334677116#413#105#0(6@49"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/copy.c334677095#14#0#14#0#43"'*' undeclared (first use in this function)0(0#0#49"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/copy.c4522294928#1242"    cd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/CH1.build/Debug/CH1.build/CH1-generated-files.hmap -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/CH1.build/Debug/CH1.build/CH1-own-target-headers.hmap -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/CH1.build/Debug/CH1.build/CH1-all-target-headers.hmap -iquote /Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/CH1.build/Debug/CH1.build/CH1-project-headers.hmap -F/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/Debug -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/Debug/include -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/CH1.build/Debug/CH1.build/DerivedSources/x86_64 -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/CH1.build/Debug/CH1.build/DerivedSources -c /Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/copy.c -o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/CH1.build/Debug/CH1.build/Objects-normal/x86_64/copy.o1#
+
+CCompileC build/CH1.build/Debug/CH1.build/Objects-normal/x86_64/e1.5.o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/e1.5.c normal x86_64 c com.apple.compilers.gcc.4_2
+s334676681.664333
+e334676681.733281
+r1
+xCompileC
+xbuild/CH1.build/Debug/CH1.build/Objects-normal/x86_64/e1.5.o
+x/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/e1.5.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/e1.5.c334676681#334676681#0(92"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/e1.5.c:4: warning: return type defaults to 'int'1(22@29"Return type defaults to 'int'334676681#0#92#0(6@49"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/e1.5.c334676681#4#0#4#0#0"0(0#0#49"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/e1.5.c4472278672#1242"    cd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/CH1.build/Debug/CH1.build/CH1-generated-files.hmap -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/CH1.build/Debug/CH1.build/CH1-own-target-headers.hmap -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/CH1.build/Debug/CH1.build/CH1-all-target-headers.hmap -iquote /Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/CH1.build/Debug/CH1.build/CH1-project-headers.hmap -F/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/Debug -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/Debug/include -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/CH1.build/Debug/CH1.build/DerivedSources/x86_64 -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/CH1.build/Debug/CH1.build/DerivedSources -c /Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/e1.5.c -o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/CH1.build/Debug/CH1.build/Objects-normal/x86_64/e1.5.o0#
+
+CCompileC build/CH1.build/Debug/CH1.build/Objects-normal/x86_64/main.o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/Debug/CH1 normal x86_64
+s334676681.733364
+e334676681.748777
+r1
+xLd
+x/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/Debug/CH1
+xnormal
+xx86_64
+lSLF07#2@63"Link /Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/Debug/CH1334676681#334676681#0(0"0(0#0#0"4472278672#502"    cd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/Debug -F/Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/Debug -filelist /Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/CH1.build/Debug/CH1.build/Objects-normal/x86_64/CH1.LinkFileList -mmacosx-version-min=10.6 -o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/CH1/build/Debug/CH10#
+

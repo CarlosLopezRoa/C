@@ -1,0 +1,64 @@
+T1.5.1_CLR
+v7
+r0
+t335391645.629519
+cCheck dependencies
+cCompileC build/1.5.1_CLR.build/Debug/1.5.1_CLR.build/Objects-normal/x86_64/main.o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR/build/Debug/1.5.1_CLR normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR/build/1.5.1_CLR.build/Debug/1.5.1_CLR.build/Objects-normal/x86_64/1.5.1_CLR.LinkFileList
+c000000004E4D741C000000000000007A
+t1313698844
+s122
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR/build/1.5.1_CLR.build/Debug/1.5.1_CLR.build/Objects-normal/x86_64/main.o
+t1313698845
+s2580
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR/build/Debug/1.5.1_CLR
+t1313698845
+s9048
+
+N/Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR/main.c
+c000000004E4D741C000000000000006D
+t1313698844
+s109
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies335391644#335391644#0(0"0(0#1#0"17222073600#0"0#
+
+CCompileC build/1.5.1_CLR.build/Debug/1.5.1_CLR.build/Objects-normal/x86_64/main.o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s335391644.602537
+e335391645.217748
+r1
+xCompileC
+xbuild/1.5.1_CLR.build/Debug/1.5.1_CLR.build/Objects-normal/x86_64/main.o
+x/Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR/main.c335391644#335391645#0(0"0(0#0#55"/Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR/main.c17198235136#1416"    cd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR/build/1.5.1_CLR.build/Debug/1.5.1_CLR.build/1.5.1_CLR-generated-files.hmap -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR/build/1.5.1_CLR.build/Debug/1.5.1_CLR.build/1.5.1_CLR-own-target-headers.hmap -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR/build/1.5.1_CLR.build/Debug/1.5.1_CLR.build/1.5.1_CLR-all-target-headers.hmap -iquote /Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR/build/1.5.1_CLR.build/Debug/1.5.1_CLR.build/1.5.1_CLR-project-headers.hmap -F/Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR/build/Debug -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR/build/Debug/include -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR/build/1.5.1_CLR.build/Debug/1.5.1_CLR.build/DerivedSources/x86_64 -I/Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR/build/1.5.1_CLR.build/Debug/1.5.1_CLR.build/DerivedSources -c /Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR/main.c -o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR/build/1.5.1_CLR.build/Debug/1.5.1_CLR.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR/build/Debug/1.5.1_CLR normal x86_64
+s335391645.217837
+e335391645.629479
+r1
+xLd
+x/Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR/build/Debug/1.5.1_CLR
+xnormal
+xx86_64
+lSLF07#2@75"Link /Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR/build/Debug/1.5.1_CLR335391645#335391645#0(0"0(0#0#0"4507545232#556"    cd /Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR/build/Debug -F/Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR/build/Debug -filelist /Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR/build/1.5.1_CLR.build/Debug/1.5.1_CLR.build/Objects-normal/x86_64/1.5.1_CLR.LinkFileList -mmacosx-version-min=10.6 -o /Users/Carlos/Dropbox/5CLR/COM3/Tareas/1.5.1_CLR/build/Debug/1.5.1_CLR0#
+
